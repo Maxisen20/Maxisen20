@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxisen20 AKA Max
 - 👀 I’m interested in playing sports and studying.
-- 🌱 I’m currently learning Haskel and Functional programming and soon more at a University
+- 🌱 I’m currently doing my comuter science and engineering degree at Chalmers.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
